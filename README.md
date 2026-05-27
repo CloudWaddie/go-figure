@@ -78,7 +78,7 @@ You can point to a file the comes with this project
 or you can store the file anywhere you'd like and use that location.
 
 The font files are available in the [fonts folder](https://github.com/common-nighthawk/go-figure/tree/master/fonts)
-and on [figlet.org](http://www.figlet.org/fontdb.cgi).
+and on [figlet.org](https://www.figlet.org/cgi-bin/fontdb.cgi).
 
 Here are two examples--
 
